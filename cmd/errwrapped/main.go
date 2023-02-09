@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/hmarui66/errwrapped"
+	"github.com/nrnrk/errwrapped"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 

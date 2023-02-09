@@ -3,8 +3,9 @@ package errwrapped_test
 import (
 	"testing"
 
-	"github.com/hmarui66/errwrapped"
 	"golang.org/x/tools/go/analysis/analysistest"
+
+	"github.com/nrnrk/errwrapped"
 )
 
 func Test(t *testing.T) {
