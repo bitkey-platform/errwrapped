@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/nrnrk/errwrapped"
+	"github.com/bitkey-platform/errwrapped"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
