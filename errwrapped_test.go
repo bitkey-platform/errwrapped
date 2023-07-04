@@ -5,7 +5,7 @@ import (
 
 	"golang.org/x/tools/go/analysis/analysistest"
 
-	"github.com/nrnrk/errwrapped"
+	"github.com/bitkey-platform/errwrapped"
 )
 
 func Test(t *testing.T) {
