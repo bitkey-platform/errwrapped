@@ -5,7 +5,7 @@ errwrapped checks for code returning errors that are not wrapped by any wrapper 
 ## Install
 
 ```
-go install github.com/nrnrk/errwrapped/cmd/errwrapped@latest
+go install github.com/bitkey-platform/errwrapped/cmd/errwrapped@latest
 ```
 
 ## Use
